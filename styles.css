@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+#app {
+    display: flex;
+    flex-direction: column;
+}
+main {
+    display: flex;
+}
+/* Additional styles for the form, templates, and resume preview */
